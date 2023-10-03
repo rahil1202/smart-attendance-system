@@ -33,7 +33,6 @@ The Smart Attendance System consists of the following components:
 ## Flow Diagram 📋
 
 ![image](https://github.com/rahil1202/smart-attendance-system/assets/104057403/28f3a061-a8a2-4e76-b37d-85073deb5e8b)
-![image](https://github.com/rahil1202/smart-attendance-system/assets/104057403/14047230-feee-4c4f-b624-debece002ffb)
 
 
 ## Working Model 📊
