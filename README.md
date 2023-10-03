@@ -1,4 +1,4 @@
-# Smart Attendance System Problem Statement 📝
+# Smart Attendance System  📝
 
 **Problem**: Traditional attendance tracking systems rely on manual processes, which are prone to errors, time-consuming, and inefficient. Educational institutions and organizations require a more accurate and automated solution to track attendance.
 
